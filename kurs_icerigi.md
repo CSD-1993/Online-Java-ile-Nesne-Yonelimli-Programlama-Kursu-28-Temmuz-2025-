@@ -341,3 +341,6 @@
 + Dosya göstericisinin konumlandırılması
 + Dosya formatı kavramı
 + Örnek programlar
+
+  # Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZ0kdeyqrDspHNCQ9l7Rt-lms0dnPItKHH-z#/registration)
