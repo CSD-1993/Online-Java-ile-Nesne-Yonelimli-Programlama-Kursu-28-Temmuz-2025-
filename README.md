@@ -1,7 +1,7 @@
-# Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-10-Mart-2025-
+# Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-28-Nisan-2025-
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __10 Mart 2025 Pazartesi__ günü başlayacaktır.
++ Kurs __28 Nisan 2025 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __220__ saattir. Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
