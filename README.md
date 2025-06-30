@@ -1,4 +1,4 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu-28 Temmuz 2025
+# Online Java ile Nesne Yönelimli Programlama Kursu - 28 Temmuz 2025
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
 + Kurs __28 Temmuz 2025 Pazartesi__ günü başlayacaktır.
