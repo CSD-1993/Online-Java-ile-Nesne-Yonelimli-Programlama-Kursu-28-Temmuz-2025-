@@ -1,4 +1,4 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu
+# Online Java ile Nesne Yönelimli Programlama Kursu - Genel Tanıtım
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 
