@@ -1,4 +1,4 @@
-# Java ile Nesne Yönelimli Programlama
+# Online Java ile Nesne Yönelimli Programlama Kursu - 28 Temmuz 2025 Kurs İçeriği (220 Saat)
 
 ## Temel kavramlar
 + Java ortamı
